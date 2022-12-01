@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bruno
+- 👋 Hi, I’m @Alf-Red
 - 👀 I’m interested in finding developpers to help me program a meta search engine for finding p2p files from a single desktop software (across different p2p networks: kademlia, BT torrent files trackers, GNUtella file shares, Web sources (mega.co.nz, uploaded.to, 4shared, uptobox, 1fichier, etc...)
 - 🌱 I’m currently learning c++ and C# dot NET
 - 💞️ I’m looking to collaborate on Github
